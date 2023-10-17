@@ -1,2 +1,2 @@
 # test-plan
-This is my example of test plan. For example I wrote in ecxel file. There are 2 lists: description and test cases.
+These are my examples of test plan. Each test plan has test cases.
